@@ -1,4 +1,5 @@
-#Netflix Data Analysis
+# Netflix Data Analysis
+
 #Project Overview
 
 This project aims to analyze a dataset containing information about Netflix movies and TV shows to gain insights into viewer preferences, content trends, and the effectiveness of Netflix's recommendation system. By leveraging data science techniques, we aim to:
@@ -8,7 +9,7 @@ Analyze content trends: Track the evolution of content over time.
 Evaluate the recommendation system: Assess the accuracy and relevance of recommendations.
 Identify opportunities for content acquisition and production.
 
-#Data:
+# Data:
 
 The dataset used for this analysis contains information about Netflix movies and TV shows, including:
 
@@ -21,7 +22,7 @@ Description
 Director
 Cast
 
-#Methodology:
+# Methodology:
 
 Data Cleaning and Preprocessing:
 
@@ -42,7 +43,7 @@ Content Trend Analysis:
 Analyze the evolution of content trends over time, including changes in popular genres and production patterns.
 Identify emerging trends and potential opportunities for future content acquisition and production.
 
-#Tools and Technologies:
+# Tools and Technologies:
 
 Python: Programming language for data analysis and machine learning.
 Pandas and NumPy: Data manipulation and analysis libraries.
